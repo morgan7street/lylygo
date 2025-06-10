@@ -1,5 +1,7 @@
 # ESP32-S3 Movement Counter
 
+*Une version française de ce document est disponible dans [README_fr.md](README_fr.md).* 
+
 This repository contains a simple MicroPython application for the Waveshare ESP32-S3 Touch LCD 1.28" board. The program reads motion data from the onboard **QMI8658** accelerometer/gyroscope and shows a counter on the round 1.28" LCD (GC9A01A).
 
 The application is designed for fitness tracking. Wear the device on your chest or arm during exercises. Each detected movement increments the displayed count.
